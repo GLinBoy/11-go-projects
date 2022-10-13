@@ -7,7 +7,7 @@ The video is available at [https://www.youtube.com/watch?v=jFfo23yIWac](https://
 ⭐️ Course Contents ⭐️
 
 - [x] ⌨️ ([0:00:00](https://www.youtube.com/watch?v=jFfo23yIWac&t=0s)) Build A Simple Web Server With Golang ([go-server](go-server/))
-- [ ] ⌨️ ([0:20:34](https://www.youtube.com/watch?v=jFfo23yIWac&t=1234s)) Build A CRUD API With Golang
+- [x] ⌨️ ([0:20:34](https://www.youtube.com/watch?v=jFfo23yIWac&t=1234s)) Build A CRUD API With Golang ([go-movies-crud](go-movies-crud/))
 - [ ] ⌨️ ([1:07:14](https://www.youtube.com/watch?v=jFfo23yIWac&t=4034s)) Golang With MYSQL Book Management System
 - [ ] ⌨️ ([2:30:57](https://www.youtube.com/watch?v=jFfo23yIWac&t=9057s)) Simple SlackBot To Calculate Age
 - [ ] ⌨️ ([2:44:12](https://www.youtube.com/watch?v=jFfo23yIWac&t=9852s)) Golang Slackbot for File Uploading
