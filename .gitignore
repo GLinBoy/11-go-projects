@@ -220,3 +220,4 @@ $RECYCLE.BIN/
 # Project based ignore
 go-server/go-server
 go-movies-crud/go-movies-crud
+go-bookstore/cmd/main/main
