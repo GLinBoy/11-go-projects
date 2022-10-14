@@ -221,3 +221,4 @@ $RECYCLE.BIN/
 go-server/go-server
 go-movies-crud/go-movies-crud
 go-bookstore/cmd/main/main
+slack-age-bot/slack-age-bot
