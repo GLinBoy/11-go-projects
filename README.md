@@ -8,7 +8,7 @@ The video is available at [https://www.youtube.com/watch?v=jFfo23yIWac](https://
 
 - [x] ⌨️ ([0:00:00](https://www.youtube.com/watch?v=jFfo23yIWac&t=0s)) Build A Simple Web Server With Golang ([go-server](go-server/))
 - [x] ⌨️ ([0:20:34](https://www.youtube.com/watch?v=jFfo23yIWac&t=1234s)) Build A CRUD API With Golang ([go-movies-crud](go-movies-crud/))
-- [ ] ⌨️ ([1:07:14](https://www.youtube.com/watch?v=jFfo23yIWac&t=4034s)) Golang With MYSQL Book Management System
+- [x] ⌨️ ([1:07:14](https://www.youtube.com/watch?v=jFfo23yIWac&t=4034s)) Golang With MYSQL Book Management System ([go-bookstore](go-bookstore/))
 - [ ] ⌨️ ([2:30:57](https://www.youtube.com/watch?v=jFfo23yIWac&t=9057s)) Simple SlackBot To Calculate Age
 - [ ] ⌨️ ([2:44:12](https://www.youtube.com/watch?v=jFfo23yIWac&t=9852s)) Golang Slackbot for File Uploading
 - [ ] ⌨️ ([3:01:45](https://www.youtube.com/watch?v=jFfo23yIWac&t=10905s)) Email Verifier Tool With Golang
@@ -17,3 +17,20 @@ The video is available at [https://www.youtube.com/watch?v=jFfo23yIWac](https://
 - [ ] ⌨️ ([4:34:34](https://www.youtube.com/watch?v=jFfo23yIWac&t=16474s)) HRMS with Golang Fiber
 - [ ] ⌨️ ([5:44:25](https://www.youtube.com/watch?v=jFfo23yIWac&t=20665s)) Complete serverless stack with Golang
 - [ ] ⌨️ ([7:28:55](https://www.youtube.com/watch?v=jFfo23yIWac&t=26935s)) A.I Bot with wolfram, wit.ai and Golang
+
+---
+
+### Golang With MYSQL Book Management System
+
+#### CURL commands:
+
+- Get all the books
+  - `curl --location --request GET ‘localhost:9010/book/’`
+- Get a book by ID
+  - `curl --location --request GET ‘localhost:9010/book/1’`
+- Create a new book
+  - `curl --location --request POST 'localhost:9010/book/' --header 'Content-Type: application/json' --data-raw ‘{"Name":"The Startup way", "Author": "Eric Rises", "Publication": "Penguin"}’`
+- Update a book
+  - `curl --location --request PUT 'localhost:9010/book/2' --header 'Content-Type: application/json' --data-raw ‘{"Name":"The Startup way", "Author": "Eric Rises", "Publication": "Orion"}’`
+- Delete a book
+  - `curl --location --request DELETE 'localhost:9010/book/2'`
