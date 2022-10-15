@@ -10,7 +10,7 @@ The video is available at [https://www.youtube.com/watch?v=jFfo23yIWac](https://
 - [x] ⌨️ ([0:20:34](https://www.youtube.com/watch?v=jFfo23yIWac&t=1234s)) Build A CRUD API With Golang ([go-movies-crud](go-movies-crud/))
 - [x] ⌨️ ([1:07:14](https://www.youtube.com/watch?v=jFfo23yIWac&t=4034s)) Golang With MYSQL Book Management System ([go-bookstore](go-bookstore/))
 - [x] ⌨️ ([2:30:57](https://www.youtube.com/watch?v=jFfo23yIWac&t=9057s)) Simple SlackBot To Calculate Age ([slack-age-bot](slack-age-bot/))
-- [ ] ⌨️ ([2:44:12](https://www.youtube.com/watch?v=jFfo23yIWac&t=9852s)) Golang SlackBot for File Uploading ([slack-file-bot](slack-file-bot/))
+- [x] ⌨️ ([2:44:12](https://www.youtube.com/watch?v=jFfo23yIWac&t=9852s)) Golang SlackBot for File Uploading ([slack-file-bot](slack-file-bot/))
 - [ ] ⌨️ ([3:01:45](https://www.youtube.com/watch?v=jFfo23yIWac&t=10905s)) Email Verifier Tool With Golang
 - [ ] ⌨️ ([3:24:32](https://www.youtube.com/watch?v=jFfo23yIWac&t=12272s)) AWS Lambda With Golang
 - [ ] ⌨️ ([3:50:12](https://www.youtube.com/watch?v=jFfo23yIWac&t=13812s)) CRM with Golang Fiber
