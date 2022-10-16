@@ -224,3 +224,4 @@ go-bookstore/cmd/main/main
 slack-age-bot/slack-age-bot
 slack-file-bot/slack-file-bot
 email-checker-tool/email-checker-tool
+lambda-yt-example/lambda-yt-example

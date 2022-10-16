@@ -12,7 +12,7 @@ The video is available at [https://www.youtube.com/watch?v=jFfo23yIWac](https://
 - [x] ⌨️ ([2:30:57](https://www.youtube.com/watch?v=jFfo23yIWac&t=9057s)) Simple SlackBot To Calculate Age ([slack-age-bot](slack-age-bot/))
 - [x] ⌨️ ([2:44:12](https://www.youtube.com/watch?v=jFfo23yIWac&t=9852s)) Golang SlackBot for File Uploading ([slack-file-bot](slack-file-bot/))
 - [x] ⌨️ ([3:01:45](https://www.youtube.com/watch?v=jFfo23yIWac&t=10905s)) Email Verifier Tool With Golang ([email-checker-tool](email-checker-tool/))
-- [ ] ⌨️ ([3:24:32](https://www.youtube.com/watch?v=jFfo23yIWac&t=12272s)) AWS Lambda With Golang
+- [x] ⌨️ ([3:24:32](https://www.youtube.com/watch?v=jFfo23yIWac&t=12272s)) AWS Lambda With Golang ([lambda-yt-example](lambda-yt-example/))
 - [ ] ⌨️ ([3:50:12](https://www.youtube.com/watch?v=jFfo23yIWac&t=13812s)) CRM with Golang Fiber
 - [ ] ⌨️ ([4:34:34](https://www.youtube.com/watch?v=jFfo23yIWac&t=16474s)) HRMS with Golang Fiber
 - [ ] ⌨️ ([5:44:25](https://www.youtube.com/watch?v=jFfo23yIWac&t=20665s)) Complete serverless stack with Golang
