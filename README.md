@@ -15,7 +15,7 @@ The video is available at [https://www.youtube.com/watch?v=jFfo23yIWac](https://
 - [x] ⌨️ ([3:24:32](https://www.youtube.com/watch?v=jFfo23yIWac&t=12272s)) AWS Lambda With Golang ([lambda-yt-example](lambda-yt-example/))
 - [x] ⌨️ ([3:50:12](https://www.youtube.com/watch?v=jFfo23yIWac&t=13812s)) CRM with Golang Fiber ([go-fiber-crm-basic](go-fiber-crm-basic/))
 - [x] ⌨️ ([4:34:34](https://www.youtube.com/watch?v=jFfo23yIWac&t=16474s)) HRMS with Golang Fiber ([go-fiber-mongo-hrms](go-fiber-mongo-hrms/))
-- [ ] ⌨️ ([5:44:25](https://www.youtube.com/watch?v=jFfo23yIWac&t=20665s)) Complete serverless stack with Golang
+- [x] ⌨️ ([5:44:25](https://www.youtube.com/watch?v=jFfo23yIWac&t=20665s)) Complete serverless stack with Golang ([go-serverless-yt](go-serverless-yt/))
 - [ ] ⌨️ ([7:28:55](https://www.youtube.com/watch?v=jFfo23yIWac&t=26935s)) A.I Bot with wolfram, wit.ai and Golang
 
 ---
