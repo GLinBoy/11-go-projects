@@ -227,3 +227,4 @@ email-checker-tool/email-checker-tool
 lambda-yt-example/lambda-yt-example
 go-fiber-crm-basic/go-fiber-crm-basic
 go-fiber-mongo-hrms/go-fiber-mongo-hrms
+go-serverless-yt/cmd/cmd
